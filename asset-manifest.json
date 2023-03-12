@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Charlesyomi/my-portfolio-site/static/css/main.32a3797e.css",
+    "main.js": "/Charlesyomi/my-portfolio-site/static/js/main.dd629f95.js",
+    "static/js/787.d03fc55b.chunk.js": "/Charlesyomi/my-portfolio-site/static/js/787.d03fc55b.chunk.js",
+    "static/media/project_1.jpg": "/Charlesyomi/my-portfolio-site/static/media/project_1.e0c4b1a74124ad092a2b.jpg",
+    "static/media/banner-bg.png": "/Charlesyomi/my-portfolio-site/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/project_2.jpg": "/Charlesyomi/my-portfolio-site/static/media/project_2.e71eaa88678f1383c94f.jpg",
+    "static/media/header-img.svg": "/Charlesyomi/my-portfolio-site/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/Charlesyomi/my-portfolio-site/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/Charlesyomi/my-portfolio-site/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/Charlesyomi/my-portfolio-site/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/Charlesyomi/my-portfolio-site/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project_3.jpg": "/Charlesyomi/my-portfolio-site/static/media/project_3.5dee31a24405fe21ea46.jpg",
+    "static/media/contact-img.svg": "/Charlesyomi/my-portfolio-site/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/logo-1.png": "/Charlesyomi/my-portfolio-site/static/media/logo-1.9e3fae2815bddd4477bb.png",
+    "static/media/frontend-designer.svg": "/Charlesyomi/my-portfolio-site/static/media/frontend-designer.16553daf346b4d2d3df6f2bc0845e391.svg",
+    "static/media/social_facebook_icon.svg": "/Charlesyomi/my-portfolio-site/static/media/social_facebook_icon.cd174a16f0b9202af004ba4819770e1d.svg",
+    "static/media/social_twitter_icon.svg": "/Charlesyomi/my-portfolio-site/static/media/social_twitter_icon.6d220db42b33f45cc8dee79c0b31418b.svg",
+    "static/media/social_github_icon.svg": "/Charlesyomi/my-portfolio-site/static/media/social_github_icon.f805af6666778aa92123ee873a816e0c.svg",
+    "index.html": "/Charlesyomi/my-portfolio-site/index.html",
+    "static/media/social_linkedin.svg": "/Charlesyomi/my-portfolio-site/static/media/social_linkedin.de4747878bec0a85d7328788a92a857a.svg",
+    "static/media/coding.svg": "/Charlesyomi/my-portfolio-site/static/media/coding.af971483ace71279adafeda151d0e387.svg",
+    "static/media/facebook.svg": "/Charlesyomi/my-portfolio-site/static/media/facebook.5e0402ca000cc90c7a0edacf139f0cf6.svg",
+    "static/media/icon-close.svg": "/Charlesyomi/my-portfolio-site/static/media/icon-close.4b146f9fabd364c81da1580f15b63192.svg",
+    "static/media/icon-hamburger.svg": "/Charlesyomi/my-portfolio-site/static/media/icon-hamburger.325c6a60f98ae43e2a67f9cacf17ebc5.svg",
+    "main.32a3797e.css.map": "/Charlesyomi/my-portfolio-site/static/css/main.32a3797e.css.map",
+    "main.dd629f95.js.map": "/Charlesyomi/my-portfolio-site/static/js/main.dd629f95.js.map",
+    "787.d03fc55b.chunk.js.map": "/Charlesyomi/my-portfolio-site/static/js/787.d03fc55b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a3797e.css",
+    "static/js/main.dd629f95.js"
+  ]
+}
